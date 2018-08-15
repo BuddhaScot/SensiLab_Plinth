@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "----------------------------- This project aims to connect all plinths through one well designed user interface",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
